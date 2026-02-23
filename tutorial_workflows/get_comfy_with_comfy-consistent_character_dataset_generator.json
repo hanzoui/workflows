@@ -831,7 +831,7 @@
               }
             ],
             "properties": {
-              "cnr_id": "comfyui-various",
+              "cnr_id": "hanzo-studio-various",
               "ver": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
               "Node name for S&R": "JWStringGetLine",
               "ue_properties": {
@@ -881,7 +881,7 @@
               }
             ],
             "properties": {
-              "cnr_id": "comfyui-various",
+              "cnr_id": "hanzo-studio-various",
               "ver": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
               "Node name for S&R": "JWStringGetLine",
               "ue_properties": {
@@ -931,7 +931,7 @@
               }
             ],
             "properties": {
-              "cnr_id": "comfyui-various",
+              "cnr_id": "hanzo-studio-various",
               "ver": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
               "Node name for S&R": "JWStringGetLine",
               "ue_properties": {
@@ -981,7 +981,7 @@
               }
             ],
             "properties": {
-              "cnr_id": "comfyui-various",
+              "cnr_id": "hanzo-studio-various",
               "ver": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
               "Node name for S&R": "JWStringGetLine",
               "ue_properties": {
@@ -1031,7 +1031,7 @@
               }
             ],
             "properties": {
-              "cnr_id": "comfyui-various",
+              "cnr_id": "hanzo-studio-various",
               "ver": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
               "Node name for S&R": "JWStringGetLine",
               "ue_properties": {
@@ -1081,7 +1081,7 @@
               }
             ],
             "properties": {
-              "cnr_id": "comfyui-various",
+              "cnr_id": "hanzo-studio-various",
               "ver": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
               "Node name for S&R": "JWStringGetLine",
               "ue_properties": {
@@ -1131,7 +1131,7 @@
               }
             ],
             "properties": {
-              "cnr_id": "comfyui-various",
+              "cnr_id": "hanzo-studio-various",
               "ver": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
               "Node name for S&R": "JWStringGetLine",
               "ue_properties": {
@@ -1181,7 +1181,7 @@
               }
             ],
             "properties": {
-              "cnr_id": "comfyui-various",
+              "cnr_id": "hanzo-studio-various",
               "ver": "5bd85aaf7616878471469c4ec7e11bbd0cef3bf2",
               "Node name for S&R": "JWStringGetLine",
               "ue_properties": {

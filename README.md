@@ -1,2 +1,2 @@
 # workflows
-ComfyUI workflows
+Hanzo Studio workflows

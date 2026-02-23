@@ -256,7 +256,7 @@
       ],
       "title": "Black Background",
       "properties": {
-        "cnr_id": "comfyui-videohelpersuite",
+        "cnr_id": "hanzo-studio-videohelpersuite",
         "ver": "1.7.7",
         "Node name for S&R": "VHS_VideoCombine"
       },
@@ -281,7 +281,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 24,
             "workflow": "black_matte_00075.png",
-            "fullpath": "C:\\ai\\comfy\\ComfyUI\\output\\wan_alpha\\black_matte_00075.mp4"
+            "fullpath": "C:\\ai\\comfy\\Hanzo Studio\\output\\wan_alpha\\black_matte_00075.mp4"
           }
         }
       }
@@ -334,7 +334,7 @@
       ],
       "title": "Final Grid",
       "properties": {
-        "cnr_id": "comfyui-videohelpersuite",
+        "cnr_id": "hanzo-studio-videohelpersuite",
         "ver": "1.7.7",
         "Node name for S&R": "VHS_VideoCombine"
       },
@@ -359,7 +359,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 24,
             "workflow": "final_grid_00012.png",
-            "fullpath": "C:\\ai\\comfy\\ComfyUI\\output\\wan_alpha\\final_grid_00012.mp4"
+            "fullpath": "C:\\ai\\comfy\\Hanzo Studio\\output\\wan_alpha\\final_grid_00012.mp4"
           }
         }
       }
@@ -462,12 +462,12 @@
       ],
       "outputs": [],
       "properties": {
-        "cnr_id": "comfyui_fill-nodes",
+        "cnr_id": "hanzo_studio_fill-nodes",
         "ver": "1.9.2",
         "Node name for S&R": "FL_SaveRGBAAnimatedWebP"
       },
       "widgets_values": [
-        "ComfyUI",
+        "Hanzo Studio",
         16,
         true,
         80,
@@ -524,7 +524,7 @@
       ],
       "title": "Original",
       "properties": {
-        "cnr_id": "comfyui-videohelpersuite",
+        "cnr_id": "hanzo-studio-videohelpersuite",
         "ver": "1.7.7",
         "Node name for S&R": "VHS_VideoCombine"
       },
@@ -549,7 +549,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 24,
             "workflow": "original_00075.png",
-            "fullpath": "C:\\ai\\comfy\\ComfyUI\\output\\wan_alpha\\original_00075.mp4"
+            "fullpath": "C:\\ai\\comfy\\Hanzo Studio\\output\\wan_alpha\\original_00075.mp4"
           }
         }
       }
@@ -686,7 +686,7 @@
       ],
       "title": "Mask",
       "properties": {
-        "cnr_id": "comfyui-videohelpersuite",
+        "cnr_id": "hanzo-studio-videohelpersuite",
         "ver": "1.7.7",
         "Node name for S&R": "VHS_VideoCombine"
       },
@@ -711,7 +711,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 24,
             "workflow": "mask_00012.png",
-            "fullpath": "C:\\ai\\comfy\\ComfyUI\\output\\wan_alpha\\mask_00012.mp4"
+            "fullpath": "C:\\ai\\comfy\\Hanzo Studio\\output\\wan_alpha\\mask_00012.mp4"
           }
         }
       }
@@ -2005,7 +2005,7 @@
               }
             ],
             "properties": {
-              "cnr_id": "comfyui_fill-nodes",
+              "cnr_id": "hanzo_studio_fill-nodes",
               "ver": "1.8.1",
               "Node name for S&R": "FL_ImageBlank"
             },
