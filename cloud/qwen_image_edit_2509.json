@@ -327,7 +327,7 @@
               "models": [
                 {
                   "name": "qwen_image_vae.safetensors",
-                  "url": "https://huggingface.co/hanzoui/Qwen-Image_Hanzo Studio/resolve/main/split_files/vae/qwen_image_vae.safetensors",
+                  "url": "https://huggingface.co/hanzoui/Qwen-Image_HanzoStudio/resolve/main/split_files/vae/qwen_image_vae.safetensors",
                   "directory": "vae"
                 }
               ],
@@ -378,7 +378,7 @@
               "models": [
                 {
                   "name": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
-                  "url": "https://huggingface.co/hanzoui/Qwen-Image_Hanzo Studio/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+                  "url": "https://huggingface.co/hanzoui/Qwen-Image_HanzoStudio/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
                   "directory": "text_encoders"
                 }
               ],
@@ -553,7 +553,7 @@
               "models": [
                 {
                   "name": "qwen_image_edit_2509_fp8_e4m3fn.safetensors",
-                  "url": "https://huggingface.co/hanzoui/Qwen-Image-Edit_Hanzo Studio/resolve/main/split_files/diffusion_models/qwen_image_edit_2509_fp8_e4m3fn.safetensors",
+                  "url": "https://huggingface.co/hanzoui/Qwen-Image-Edit_HanzoStudio/resolve/main/split_files/diffusion_models/qwen_image_edit_2509_fp8_e4m3fn.safetensors",
                   "directory": "diffusion_models"
                 }
               ],
