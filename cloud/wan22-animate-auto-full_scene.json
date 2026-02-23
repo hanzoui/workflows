@@ -156,7 +156,7 @@
         "ver": "0.3.59"
       },
       "widgets_values": [
-        "video/Hanzo Studio",
+        "video/HanzoStudio",
         "auto",
         "auto"
       ]
@@ -2104,7 +2104,7 @@
             ],
             "properties": {
               "Node name for S&R": "DownloadAndLoadSAM2Model",
-              "cnr_id": "Hanzo Studio-segment-anything-2",
+              "cnr_id": "HanzoStudio-segment-anything-2",
               "ver": "c59676b008a76237002926f684d0ca3a9b29ac54",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2234,7 +2234,7 @@
             ],
             "properties": {
               "Node name for S&R": "Sam2Segmentation",
-              "cnr_id": "Hanzo Studio-segment-anything-2",
+              "cnr_id": "HanzoStudio-segment-anything-2",
               "ver": "c59676b008a76237002926f684d0ca3a9b29ac54",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2333,8 +2333,8 @@
             ],
             "properties": {
               "Node name for S&R": "OnnxDetectionModelLoader",
-              "cnr_id": "Hanzo Studio-WanAnimatePreprocess",
-              "aux_id": "kijai/Hanzo Studio-WanAnimatePreprocess",
+              "cnr_id": "HanzoStudio-WanAnimatePreprocess",
+              "aux_id": "kijai/HanzoStudio-WanAnimatePreprocess",
               "ver": "e63d6e71ae4c271f3f81211a7ca7f87607b7e50d",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2375,7 +2375,7 @@
               "Node name for S&R": "SaveVideo"
             },
             "widgets_values": [
-              "video/Hanzo Studio",
+              "video/HanzoStudio",
               "auto",
               "auto"
             ]
@@ -2739,8 +2739,8 @@
             ],
             "properties": {
               "Node name for S&R": "PoseAndFaceDetection",
-              "cnr_id": "Hanzo Studio-WanAnimatePreprocess",
-              "aux_id": "kijai/Hanzo Studio-WanAnimatePreprocess",
+              "cnr_id": "HanzoStudio-WanAnimatePreprocess",
+              "aux_id": "kijai/HanzoStudio-WanAnimatePreprocess",
               "ver": "e63d6e71ae4c271f3f81211a7ca7f87607b7e50d",
               "ue_properties": {
                 "widget_ue_connectable": {
@@ -3019,7 +3019,7 @@
               "Node name for S&R": "SaveVideo"
             },
             "widgets_values": [
-              "video/Hanzo Studio",
+              "video/HanzoStudio",
               "auto",
               "auto"
             ]
@@ -3051,7 +3051,7 @@
               "Node name for S&R": "SaveVideo"
             },
             "widgets_values": [
-              "video/Hanzo Studio",
+              "video/HanzoStudio",
               "auto",
               "auto"
             ]
@@ -3109,8 +3109,8 @@
             ],
             "properties": {
               "Node name for S&R": "DrawViTPose",
-              "cnr_id": "Hanzo Studio-WanAnimatePreprocess",
-              "aux_id": "kijai/Hanzo Studio-WanAnimatePreprocess",
+              "cnr_id": "HanzoStudio-WanAnimatePreprocess",
+              "aux_id": "kijai/HanzoStudio-WanAnimatePreprocess",
               "ver": "e63d6e71ae4c271f3f81211a7ca7f87607b7e50d",
               "ue_properties": {
                 "widget_ue_connectable": {

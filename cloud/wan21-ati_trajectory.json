@@ -40,7 +40,7 @@
       ],
       "properties": {
         "Node name for S&R": "WanVideoTextEmbedBridge",
-        "cnr_id": "Hanzo Studio-WanVideoWrapper",
+        "cnr_id": "HanzoStudio-WanVideoWrapper",
         "ver": "d9b1f4d1a5aea91d101ae97a54714a5861af3f50",
         "ue_properties": {
           "input_ue_unconnectable": {},
@@ -398,7 +398,7 @@
         "Node name for S&R": "SaveVideo"
       },
       "widgets_values": [
-        "video/Hanzo Studio",
+        "video/HanzoStudio",
         "auto",
         "auto"
       ],
@@ -932,7 +932,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoClipVisionEncode",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "d9b1f4d1a5aea91d101ae97a54714a5861af3f50",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1060,7 +1060,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoImageToVideoEncode",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "d9b1f4d1a5aea91d101ae97a54714a5861af3f50",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1146,7 +1146,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoATITracks",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "c4a8f6d835c1d757f665e8e7fff7dd695c8426cb",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1211,7 +1211,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoTextEncode",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "d9b1f4d1a5aea91d101ae97a54714a5861af3f50",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1270,7 +1270,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoATITracksVisualize",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "da3c7def2282b2ee9b1b43b8818a546c6a88a45b",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1329,7 +1329,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoLoraSelect",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "c4a8f6d835c1d757f665e8e7fff7dd695c8426cb",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1372,7 +1372,7 @@
             ],
             "properties": {
               "Node name for S&R": "LoadWanVideoT5TextEncoder",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "d9b1f4d1a5aea91d101ae97a54714a5861af3f50",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1426,7 +1426,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoVAELoader",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "d9b1f4d1a5aea91d101ae97a54714a5861af3f50",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1593,7 +1593,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoSampler",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "d9b1f4d1a5aea91d101ae97a54714a5861af3f50",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1751,7 +1751,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoModelLoader",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "d9b1f4d1a5aea91d101ae97a54714a5861af3f50",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -1811,7 +1811,7 @@
             ],
             "properties": {
               "Node name for S&R": "WanVideoDecode",
-              "cnr_id": "Hanzo Studio-WanVideoWrapper",
+              "cnr_id": "HanzoStudio-WanVideoWrapper",
               "ver": "d9b1f4d1a5aea91d101ae97a54714a5861af3f50",
               "ue_properties": {
                 "input_ue_unconnectable": {},
@@ -2030,9 +2030,9 @@
     "VHS_latentpreviewrate": 0,
     "links_added_by_ue": [],
     "node_versions": {
-      "Hanzo Studio-KJNodes": "a5bd3c86c8ed6b83c55c2d0e7a59515b15a0137f",
-      "Hanzo Studio-VideoHelperSuite": "0a75c7958fe320efcb052f1d9f8451fd20c730a8",
-      "Hanzo Studio-WanVideoWrapper": "5a2383621a05825d0d0437781afcb8552d9590fd",
+      "HanzoStudio-KJNodes": "a5bd3c86c8ed6b83c55c2d0e7a59515b15a0137f",
+      "HanzoStudio-VideoHelperSuite": "0a75c7958fe320efcb052f1d9f8451fd20c730a8",
+      "HanzoStudio-WanVideoWrapper": "5a2383621a05825d0d0437781afcb8552d9590fd",
       "comfy-core": "0.3.26"
     },
     "ue_links": []
