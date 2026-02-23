@@ -156,7 +156,7 @@
         "ver": "0.3.59"
       },
       "widgets_values": [
-        "video/ComfyUI",
+        "video/Hanzo Studio",
         "auto",
         "auto"
       ]
@@ -1710,7 +1710,7 @@
               "models": [
                 {
                   "name": "clip_vision_h.safetensors",
-                  "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors",
+                  "url": "https://huggingface.co/hanzoui/Wan_2.1_Hanzo Studio_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors",
                   "directory": "clip_vision"
                 }
               ]
@@ -1753,7 +1753,7 @@
               "models": [
                 {
                   "name": "umt5_xxl_fp8_e4m3fn_scaled.safetensors",
-                  "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+                  "url": "https://huggingface.co/hanzoui/Wan_2.1_Hanzo Studio_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
                   "directory": "text_encoders"
                 }
               ]
@@ -1884,7 +1884,7 @@
               "models": [
                 {
                   "name": "wan_2.1_vae.safetensors",
-                  "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors",
+                  "url": "https://huggingface.co/hanzoui/Wan_2.2_Hanzo Studio_Repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors",
                   "directory": "vae"
                 }
               ]
@@ -2104,7 +2104,7 @@
             ],
             "properties": {
               "Node name for S&R": "DownloadAndLoadSAM2Model",
-              "cnr_id": "ComfyUI-segment-anything-2",
+              "cnr_id": "Hanzo Studio-segment-anything-2",
               "ver": "c59676b008a76237002926f684d0ca3a9b29ac54",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2154,7 +2154,7 @@
             ],
             "properties": {
               "Node name for S&R": "BlockifyMask",
-              "cnr_id": "comfyui-kjnodes",
+              "cnr_id": "hanzo-studio-kjnodes",
               "ver": "00da1910634fbf314d407608efb281ae6f7f1ba2",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2234,7 +2234,7 @@
             ],
             "properties": {
               "Node name for S&R": "Sam2Segmentation",
-              "cnr_id": "ComfyUI-segment-anything-2",
+              "cnr_id": "Hanzo Studio-segment-anything-2",
               "ver": "c59676b008a76237002926f684d0ca3a9b29ac54",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2287,7 +2287,7 @@
             ],
             "properties": {
               "Node name for S&R": "GrowMaskWithBlur",
-              "cnr_id": "comfyui-kjnodes",
+              "cnr_id": "hanzo-studio-kjnodes",
               "ver": "bb205d809b467307b8ec3bb1a22680a4873187f8",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2333,8 +2333,8 @@
             ],
             "properties": {
               "Node name for S&R": "OnnxDetectionModelLoader",
-              "cnr_id": "ComfyUI-WanAnimatePreprocess",
-              "aux_id": "kijai/ComfyUI-WanAnimatePreprocess",
+              "cnr_id": "Hanzo Studio-WanAnimatePreprocess",
+              "aux_id": "kijai/Hanzo Studio-WanAnimatePreprocess",
               "ver": "e63d6e71ae4c271f3f81211a7ca7f87607b7e50d",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2375,7 +2375,7 @@
               "Node name for S&R": "SaveVideo"
             },
             "widgets_values": [
-              "video/ComfyUI",
+              "video/Hanzo Studio",
               "auto",
               "auto"
             ]
@@ -2421,7 +2421,7 @@
             ],
             "properties": {
               "Node name for S&R": "DrawMaskOnImage",
-              "cnr_id": "comfyui-kjnodes",
+              "cnr_id": "hanzo-studio-kjnodes",
               "ver": "623b5913dc7f240fd8b26422e99f8849a21c5473",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2580,7 +2580,7 @@
             ],
             "properties": {
               "Node name for S&R": "GetImageSizeAndCount",
-              "cnr_id": "comfyui-kjnodes",
+              "cnr_id": "hanzo-studio-kjnodes",
               "ver": "bb205d809b467307b8ec3bb1a22680a4873187f8",
               "ue_properties": {
                 "widget_ue_connectable": {},
@@ -2739,8 +2739,8 @@
             ],
             "properties": {
               "Node name for S&R": "PoseAndFaceDetection",
-              "cnr_id": "ComfyUI-WanAnimatePreprocess",
-              "aux_id": "kijai/ComfyUI-WanAnimatePreprocess",
+              "cnr_id": "Hanzo Studio-WanAnimatePreprocess",
+              "aux_id": "kijai/Hanzo Studio-WanAnimatePreprocess",
               "ver": "e63d6e71ae4c271f3f81211a7ca7f87607b7e50d",
               "ue_properties": {
                 "widget_ue_connectable": {
@@ -3019,7 +3019,7 @@
               "Node name for S&R": "SaveVideo"
             },
             "widgets_values": [
-              "video/ComfyUI",
+              "video/Hanzo Studio",
               "auto",
               "auto"
             ]
@@ -3051,7 +3051,7 @@
               "Node name for S&R": "SaveVideo"
             },
             "widgets_values": [
-              "video/ComfyUI",
+              "video/Hanzo Studio",
               "auto",
               "auto"
             ]
@@ -3109,8 +3109,8 @@
             ],
             "properties": {
               "Node name for S&R": "DrawViTPose",
-              "cnr_id": "ComfyUI-WanAnimatePreprocess",
-              "aux_id": "kijai/ComfyUI-WanAnimatePreprocess",
+              "cnr_id": "Hanzo Studio-WanAnimatePreprocess",
+              "aux_id": "kijai/Hanzo Studio-WanAnimatePreprocess",
               "ver": "e63d6e71ae4c271f3f81211a7ca7f87607b7e50d",
               "ue_properties": {
                 "widget_ue_connectable": {
